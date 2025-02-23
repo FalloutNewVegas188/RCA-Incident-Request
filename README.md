@@ -1,0 +1,1 @@
+Process for retrieving all the emails related to the specific incident ticket. Creating a consolidated file containing the time and content of all the identified emails, replying by email to the IT Director with all the findings.
